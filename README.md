@@ -7,8 +7,8 @@ Satellite ship detection using YOLOv8
 - Fine-tuned a pretrained YOLOv8 model using transfer learning
 - Built a simple Streamlit app to run the model interactively
 # Model Details
-Model: YOLOv8 (Ultralytics implementation)
-Task: Object Detection
-Framework: PyTorch
-Class: Ship
+- Model: YOLOv8 (Ultralytics implementation)
+- Task: Object Detection
+- Framework: PyTorch
+- Class: Ship
 The model predicts bounding boxes around ships along with confidence scores.
