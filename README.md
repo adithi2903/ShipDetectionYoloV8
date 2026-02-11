@@ -11,4 +11,4 @@ Satellite ship detection using YOLOv8
 - Task: Object Detection
 - Framework: PyTorch
 - Class: Ship
-The model predicts bounding boxes around ships along with confidence scores.
+- The model predicts bounding boxes around ships along with confidence scores.
