@@ -70,7 +70,7 @@ export default function App() {
               rel="noopener noreferrer"
               className="button"
             >
-              📄 View Project Report
+              View Project Report
             </a>
           </div>
         </section>
