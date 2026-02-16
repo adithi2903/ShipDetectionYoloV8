@@ -24,6 +24,24 @@ export default function App() {
 
         {/* HERO */}
         <section className="hero">
+          {/* GitHub Top Left */}
+          <a
+            href="https://github.com/adithi2903/ShipDetectionYoloV8"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="github-top"
+          >
+            GitHub
+          </a>
+          {/* LinkedIn Top Right */}
+          <a
+            href="https://www.linkedin.com/in/adithi-j/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="linkedin-top"
+          >
+            Connect on LinkedIn
+          </a>
           <h1>| Satellite Ship Detection |</h1>
           <p>
             AI-powered maritime vessel detection using YOLOv<span className="tech-word">8</span> trained on satellite imagery.
@@ -70,18 +88,6 @@ export default function App() {
             />
           </div>
         </section>
-
-        <footer>
-  <a 
-    href="https://www.linkedin.com/in/adithi-j/"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="linkedin-link"
-  >
-    Connect on LinkedIn
-  </a>
-</footer>
-
       </div>
     </div>
   );
