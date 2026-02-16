@@ -65,7 +65,7 @@ export default function App() {
           {/* PROJECT REPORT BUTTON */}
           <div style={{ marginTop: "35px" }}>
             <a
-              href="/project-report.pdf"
+              href="/SatelliteShipDetection_ProjectReport.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="button"
